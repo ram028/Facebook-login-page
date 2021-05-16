@@ -1,0 +1,43 @@
+.row{
+	margin-top: 150px;
+}
+h2{
+	font-size: 70px;
+	color: blue;
+}
+
+input{
+	margin-top: 10px;
+}
+
+
+form{
+	background-color: white;
+	padding: 12px;
+	border-radius: 10px;
+
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+a{
+	display: block;
+	margin-top: 5px;
+}
+
+.btn-success{
+	display: block !important;
+	margin-left: 125px;
+}
+
+.btn-primary{
+	width: 100%;
+	margin-top: 10px;
+}
+
+#pg{
+	margin-top: 14px;
+	margin-left: 26px;
+}
